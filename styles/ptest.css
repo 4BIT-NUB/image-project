@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+
+/* nav section */
+
+.topnav {
+  overflow: hidden;
+  background-color: #ffe6e6;
+}
+
+.topnav a {
+  float: left;
+  color: red;
+  text-align: center;
+  padding: 15px 18px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a.active {
+  background-color: #ffe6e6 color: red
+}
+
+.topnav a:hover {
+  background-color: #ff6666;
+  color: black;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  height: 100px;
+  padding: 5px;
+}
+
+img {
+
+
+}
+
+.img-center{
+  padding: 40px 200px 0px 200px;
+}
+
+.topnav input {
+  float: right;
+  padding: 10px 30px 10px 5px;
+  border: none;
+  margin-top: 5px;
+  font-size: 20px;
+}
+
+.search-padding {
+  padding-right: 20px;
+}
+
+
